@@ -1,4 +1,4 @@
-Synapse Static Page
+### Synapse Static Page
 
 Home Page: exp.html
 Event Page: event.html

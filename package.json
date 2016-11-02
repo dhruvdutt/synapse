@@ -1,0 +1,29 @@
+{
+  "name": "synapse",
+  "version": "1.0.0",
+  "description": "Synapse Static Page",
+  "main": "GulpFile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "url": "git+https://github.com/dhruvdutt/synapse.git",
+    "type": "git"
+  },
+  "author": "dhruvdutt <dhruvdutt.jadhav@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dhruvdutt/synapse/issues"
+  },
+  "homepage": "https://github.com/dhruvdutt/synapse#readme",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-concat-css": "^2.3.0",
+    "gulp-htmlmin": "^3.0.0",
+    "gulp-load-plugins": "^1.4.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^2.0.0",
+    "load-gulp-tasks": "^0.1.0"
+  }
+}
