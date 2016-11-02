@@ -7,4 +7,7 @@ Contact Us: contact_us.html
 
 Used Mobirise software for animation, navigation bar and carousel.
 
-
+@TODOs
+- Image compression
+- Minimize assets
+- Express Routing
