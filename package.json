@@ -17,6 +17,9 @@
   },
   "homepage": "https://github.com/dhruvdutt/synapse#readme",
   "dependencies": {
+    "express": "^4.14.0"
+  },
+  "devDependencies": {
     "gulp": "^3.9.1",
     "gulp-concat": "^2.6.0",
     "gulp-concat-css": "^2.3.0",

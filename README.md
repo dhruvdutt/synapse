@@ -1,11 +1,15 @@
 ### Synapse Static Page
 
-Home Page: exp.html
-Event Page: event.html
-Gallery page: gallery.html
-Contact Us: contact_us.html
+Home Page: `exp.html`
 
-Used Mobirise software for animation, navigation bar and carousel.
+Event Page: `event.html`
+
+Gallery page: `gallery.html`
+
+Contact Us: `contact_us.html`
+
+Used:
+- Mobirise - Animation, Nav bar and Carousel
 
 @TODOs
 - Image compression
