@@ -2,7 +2,7 @@
   "name": "synapse",
   "version": "1.0.0",
   "description": "Synapse Static Page",
-  "main": "GulpFile.js",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/dhruvdutt/synapse/issues"
   },
-  "homepage": "https://github.com/dhruvdutt/synapse#readme"
+  "homepage": "https://github.com/dhruvdutt/synapse#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
 }

@@ -1,17 +1,14 @@
 ### Synapse Static Page
 
-Home Page: `exp.html`
+Home Page: `index.html`
 
-Event Page: `event.html`
+Event Page: `events.html`
 
 Gallery page: `gallery.html`
 
 Contact Us: `contact_us.html`
 
-Used:
-- Mobirise - Animation, Nav bar and Carousel
-
 @TODOs
 - Image compression
 - Minimize assets
-- Express Routing
+- Express Routing DONE
